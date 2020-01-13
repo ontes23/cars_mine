@@ -1,38 +1,50 @@
 <annotation>
-	<folder>Car</folder>
+	<folder>images</folder>
 	<filename>00004.jpg</filename>
-	<path>/home/andy/Desktop/Kangaroo/stock-photo-two-kids-in-the-zoo-feeding-kangaroo-296180786.jpg</path>
+	<path>C:\Users\ontes23\Documents\cars_mine\cars_mine\images\00004.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1100</width>
-		<height>712</height>
+		<width>864</width>
+		<height>577</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Car</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>254</ymin>
-			<xmax>523</xmax>
-			<ymax>501</ymax>
+			<xmin>441</xmin>
+			<ymin>262</ymin>
+			<xmax>862</xmax>
+			<ymax>448</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Car</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>619</xmin>
-			<ymin>167</ymin>
-			<xmax>1095</xmax>
-			<ymax>450</ymax>
+			<xmin>282</xmin>
+			<ymin>265</ymin>
+			<xmax>490</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>243</ymin>
+			<xmax>343</xmax>
+			<ymax>344</ymax>
 		</bndbox>
 	</object>
 </annotation>
