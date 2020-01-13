@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Car</folder>
+	<filename>00012.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/stock-photo-two-kids-in-the-zoo-feeding-kangaroo-296180786.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>254</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>17</ymin>
+			<xmax>221</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
