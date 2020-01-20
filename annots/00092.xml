@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00092.jpg</filename>
+	<path>C:/Users/ontes23/Documents/progettoMachinelearning/cars_mine/cars_mine/images/00092.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>67</ymin>
+			<xmax>482</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>
